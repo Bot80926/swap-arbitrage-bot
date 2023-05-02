@@ -1,0 +1,26 @@
+{
+  "name": "swap-fast-bot-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js",
+    "commit": "npx git-cz"
+  },
+  "author": "Bot80926",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.3",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "uuidv4": "^6.2.12",
+    "web3": "^1.6.1"
+  }
+}
