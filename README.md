@@ -2,13 +2,13 @@
 
 介绍
 - 在去中心化交易所上的swap套利夹子机器人， 让你零成本套利。
-- 在KCC链上通过了测试用例并能够正常运行
+- 在 KCC链上的 [MojitoSwap](https://app.mojitoswap.finance/) 通过了测试用例并能够正常运行
 - 当然你可以手动更改配置，让脚本能够在任何evm兼容链上运行。
 - 祝你玩得愉快 😎
 
 EN-Intro
 - DEX-swap arbitrage bot. help you make profit with zero cost 
-- It's pass test cases & running well in KuCoin Community Chain(KCC).
+- It's pass test cases & running well on [MojitoSwap](https://app.mojitoswap.finance/), which is built on KuCoin Community Chain(KCC).
 - Also you can modify the configuration manually, the script can run in any other EVM chains.
 - Have fun! 
 
